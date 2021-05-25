@@ -56,8 +56,9 @@ def apresentacao():
 def finalizcao():
     st.markdown('<br> <br> <br> <br> <br> <br> <br> <br> <br> <br>', unsafe_allow_html=True)
     st.markdown('- Desenvolvido por: Marcos Lima Marinho 🧑🏻‍💻 <br> \
-        - Linkedin: https://www.linkedin.com/in/marcos-lima-marinho-878564168/ <br> \
-        - GitHub: https://github.com/ParzivalMarcos',
+        - Visite meu [Linkedin](https://www.linkedin.com/in/marcos-lima-marinho-878564168/) <br> \
+        - Visite meu [GitHub](https://github.com/ParzivalMarcos) <br> \
+        - Me dê um alô [Whatsapp](https://api.whatsapp.com/send?phone=5511994152345&text=Ol%C3%A1,%20poderiamos%20de%20conversar)' ,
          unsafe_allow_html=True)
 
 
